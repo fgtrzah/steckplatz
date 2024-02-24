@@ -42,9 +42,10 @@ const A = styled('a', { shouldForwardProp })(
   }
 )
 
-A.defaultProps = {
-  display: "inline-block",
-  bg: "transparent",
+export interface AProps extends React.CSSProperties {
+  display?: 'inline-block',
+  bg?: 'transparent' | string
+  [x: string]: any
 }
 
 export default A
