@@ -4,13 +4,19 @@ This is sleeve, a lib of all repetitive front end shenanigans that I'd rather pa
 a lib instead of re-implementing every time I work on front end. Ideal for rapid prototyping
 not intended for production apps. Original: tachyons.css inspired.
 
+#### Idea / proactive changelog-ish
+- find out why it warns about punycode deprecation despite
+using requre("punycode/") instead of require("punycode") as
+per top-voted gh issues threads
+- JetBrains Mono the system
+
 #### TEMPLATE
 
-# Vite React Component Library Starter
+#### Vite React Component Library Starter
 
 This is a starter template for creating React component libraries using Vite. It includes a robust set of features to help you develop, test, and build your library efficiently.
 
-## Features
+#### Features
 
 - React: A JavaScript library for web and native user interfaces.
 - TypeScript: A strongly typed superset of JavaScript.
@@ -23,12 +29,12 @@ This is a starter template for creating React component libraries using Vite. It
 - Husky: A pre-commit hook.
 - Github Action: A tool that deploys your Storybook to GitHub page automatically.
 
-## Get Started
+#### Get Started
 
 1. Clone this repository
 2. Install dependencies using `npm i` (or `pnpm i` if you like)
 
-## Scripts
+#### Scripts
 
 - `dev`: Starts the local Storybook server, use this to develop and preview your components.
 - `test`: Runs all your tests with vitest.
@@ -40,6 +46,6 @@ This is a starter template for creating React component libraries using Vite. It
 - `lint`: Runs ESLint.
 - `format`: Formats your code with Prettier.
 
-## License
+#### License
 
 MIT

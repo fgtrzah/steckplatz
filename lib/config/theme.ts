@@ -1,88 +1,74 @@
 const theme = {
-  breakpoints: [
-    '30em', '60em'
-  ],
-  space: [
-    0, 4, 8, 16, 32, 64, 128, 256, 512
-  ],
-  fontSizes: [
-    12, 16, 20, 24, 36, 48, 80, 96, 128 
-  ],
-  borderWidths: [
-    0, '1px', '2px', '4px', '8px', '16px', '32px'
-  ],
-  radii: [
-    0, '2px', '4px', '16px', '9999px', '100%'
-  ],
-  lineHeights: [
-    '1.0', 
-    '1.25', 
-    '1.5'
-  ],
-  measures: [
-    '20em', '30em', '34em'
-  ],
+  breakpoints: ['30em', '60em'],
+  space: [0, 4, 8, 16, 32, 64, 128, 256, 512],
+  fontSizes: [12, 16, 20, 24, 36, 48, 80, 96, 128],
+  borderWidths: [0, '1px', '2px', '4px', '8px', '16px', '32px'],
+  radii: [0, '2px', '4px', '16px', '9999px', '100%'],
+  lineHeights: ['1.0', '1.25', '1.5'],
+  measures: ['20em', '30em', '34em'],
   typefaces: {
     serif: 'athelas, georgia, times, serif',
-    sansSerif: 'system-ui, -apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif', mono: 'Consolas, monaco, monospace' 
+    sansSerif:
+      'system-ui, -apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif',
+    mono: 'Consolas, monaco, monospace',
   },
   textStyles: {
     caps: {
       textTransform: 'uppercase',
-      letterSpacing: '0.1em'
+      letterSpacing: '0.1em',
     },
     'tracked-tight': {
-      letterSpacing: '-0.05em'
+      letterSpacing: '-0.05em',
     },
     copy: {
-      lineHeight: 1.5, 
-      maxWidth: '30em'
+      lineHeight: 1.5,
+      maxWidth: '30em',
     },
     title: {
-      lineHeight: 1.25, 
-      maxWidth: '30em'
+      lineHeight: 1.25,
+      maxWidth: '30em',
     },
     capitalize: {
-      textTransform: 'capitalize'
-    }
+      textTransform: 'capitalize',
+    },
   },
   colors: {
     'dark-red': '#e7040f',
-    'red': '#ff4136',
+    red: '#ff4136',
     'light-red': '#ff725c',
     'washed-red': '#ffdfdf',
-    'orange': '#ff6300',
-    'gold': '#ffb700',
-    'yellow': '#ffd700',
+    orange: '#ff6300',
+    gold: '#ffb700',
+    yellow: '#ffd700',
     'light-yellow': '#fbf1a9',
     'washed-yellow': '#fffceb',
-    'purple': '#5e2ca5',
+    purple: '#5e2ca5',
     'light-purple': '#a463f2',
     'dark-pink': '#d5008f',
     'hot-pink': '#ff41b4',
-    'pink': '#ff80cc',
+    pink: '#ff80cc',
     'light-pink': '#ffa3d7',
     'dark-green': '#137752',
-    'green': '#19a974',
+    green: '#19a974',
     'light-green': '#9eebcf',
     'washed-green': '#e8fdf5',
-    'navy': '#001b44',
+    navy: '#001b44',
     'dark-blue': '#00449e',
-    'blue': '#357edd',
+    blue: '#357edd',
     'light-blue': '#96ccff',
     'lightest-blue': '#cdecff',
     'washed-blue': '#f6fffe',
-    'black': '#000',
+    black: '#000',
     'near-black': '#111',
     'dark-gray': '#333',
     'mid-gray': '#555',
-    'gray': '#777',
-    'silver': '#999',
+    gray: '#777',
+    silver: '#999',
     'light-silver': '#aaa',
     'moon-gray': '#ccc',
     'light-gray': '#eee',
     'near-white': '#f4f4f4',
-    'white': '#fff',
+    white: '#fff',
     'black-90': 'rgba(0,0,0,.9)',
     'black-80': 'rgba(0,0,0,.8)',
     'black-70': 'rgba(0,0,0,.7)',
@@ -108,6 +94,6 @@ const theme = {
     'white-025': 'rgba(255,255,255,.025)',
     'white-0125': 'rgba(255,255,255,.0125)',
   },
-}
+};
 
-export default theme
+export default theme;

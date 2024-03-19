@@ -12,7 +12,6 @@ const meta = {
   argTypes: {},
 } satisfies Meta<typeof H3>;
 
-
 type Story = StoryObj<typeof meta>;
 
 const defaultProps: H3Props = {};

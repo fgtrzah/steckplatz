@@ -5,17 +5,16 @@ import A from './A';
 
 it('should render a link', () => {
   render(<A data-testid="a.link">Link</A>);
-  expect(screen.getByTestId('a.link')).toContainHTML("Link");
+  expect(screen.getByTestId('a.link')).toContainHTML('Link');
 });
 
 it('should warn upon missing href', async () => {
   const mockedwarn = (o: string) => {
-    expect(o)
-      .toEqual('missing href')
-    return o
-  }
-  console.warn = mockedwarn
-  render(<A>click link</A>)
+    expect(o).toEqual('missing href');
+    return o;
+  };
+  console.warn = mockedwarn;
+  render(<A>click link</A>);
 });
 
 it('should trigger click', async () => {
@@ -23,7 +22,14 @@ it('should trigger click', async () => {
   const onClick = () => {
     io = 1;
     expect(io).toBeTruthy();
-  }
-  render(<A data-testid="a.clickme" onClick={onClick}>click</A>);
+  };
+  render(
+    <A
+      data-testid="a.clickme"
+      onClick={onClick}
+    >
+      click
+    </A>,
+  );
   await userEvent.click(screen.getByTestId('a.clickme'));
 });

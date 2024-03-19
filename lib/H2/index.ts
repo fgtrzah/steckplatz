@@ -1,3 +1,3 @@
-import * as H2 from './H2'
+import * as H2 from './H2';
 
-export default H2
+export default H2;

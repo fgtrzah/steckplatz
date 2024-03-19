@@ -1,5 +1,5 @@
-import styled from "@emotion/styled"
-import shouldForwardProp from "@styled-system/should-forward-prop"
+import styled from '@emotion/styled';
+import shouldForwardProp from '@styled-system/should-forward-prop';
 import {
   space,
   width,
@@ -15,7 +15,7 @@ import {
   color,
   borders,
   borderColor,
-} from 'styled-system'
+} from 'styled-system';
 
 const H3 = styled('h3', { shouldForwardProp })(
   space,
@@ -35,9 +35,9 @@ const H3 = styled('h3', { shouldForwardProp })(
   {
     boxSizing: 'border-box',
   },
-)
+);
 
 export interface H3Props extends React.CSSProperties {
   [x: string]: unknown;
 }
-export default H3
+export default H3;
