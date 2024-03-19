@@ -1,3 +1,3 @@
-import * as A from './A'
+import * as A from './A';
 
-export default A
+export default A;

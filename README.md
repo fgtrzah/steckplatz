@@ -1,6 +1,6 @@
 #### USER
 
-This is sleeve, a lib of all repetitive front end shenanigans that I'd rather pack into 
+This is sleeve, a lib of all repetitive front end shenanigans that I'd rather pack into
 a lib instead of re-implementing every time I work on front end. Ideal for rapid prototyping
 not intended for production apps. Original: tachyons.css inspired.
 

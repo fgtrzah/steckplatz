@@ -1,7 +1,6 @@
 import './global.css';
 
-
-import A from './A'
+import A from './A';
 /*
   TODO:
 
@@ -165,6 +164,6 @@ export {
     Ul,
     Var
   */
-}
+};
 
 export * from './Button';

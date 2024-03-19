@@ -1,5 +1,5 @@
-import styled from "@emotion/styled"
-import shouldForwardProp from "@styled-system/should-forward-prop"
+import styled from '@emotion/styled';
+import shouldForwardProp from '@styled-system/should-forward-prop';
 
 import {
   space,
@@ -15,10 +15,10 @@ import {
   borders,
   borderColor,
   borderRadius,
-  textStyle
-} from "styled-system"
+  textStyle,
+} from 'styled-system';
 
-const A = styled('a', { shouldForwardProp })(
+const SA = styled('a', { shouldForwardProp })(
   space,
   width,
   maxWidth,
@@ -34,18 +34,25 @@ const A = styled('a', { shouldForwardProp })(
   borderColor,
   borderRadius,
   {
-    boxSizing: "border-box",
-    textDecoration: "none",
-    ":hover": {
-      cursor: "pointer"
-    }
-  }
-)
+    boxSizing: 'border-box',
+    textDecoration: 'none',
+    ':hover': {
+      cursor: 'pointer',
+    },
+  },
+);
+
+const A = (props: React.PropsWithChildren & AProps) => {
+  if (!props.href) console.warn('missing href');
+
+  return <SA {...props}>{props.children}</SA>;
+};
 
 export interface AProps extends React.CSSProperties {
-  display?: 'inline-block',
-  bg?: 'transparent' | string
-  [x: string]: any
+  display?: 'inline-block';
+  bg?: 'transparent' | string;
+  href?: string;
+  [x: string]: unknown;
 }
 
-export default A
+export default A;
