@@ -1,0 +1,421 @@
+Script started on Sat Mar 23 00:55:46 2024
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h../
+[J[34mcoverage[0m/      [J[34mdist[0m/          [J[34mlib[0m/           [J[34mnode_modules[0m/  [J[34mscripts[0m/     [J[A[0m[27m[24m[0m[49m[9C./[K[177C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[0m[49m[192Dscripts[1m/[0m[0m/genmodule.sh[1m [0m[0m [?2004l
+[Jdir: (lib)
+H6
+component: (Component.tsx)
+H6.tsx
+./scripts/genmodule.sh: line 33: ${(C)component:-Component.tsx}: bad substitution
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hi ../
+[J[34mcoverage[0m/      [J[34mdist[0m/          [J[34mlib[0m/           [J[34mnode_modules[0m/  [J[34mscripts[0m/     [J[A[0m[27m[24m[0m[49m[9C./[K[177C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[0m[49m[192Dcoverage[1m/[0m[9Ddist[1m/[0m   [0m lib[1m/[0m[0m nod[0me_modules[1m/[0m[13Dscripts[1m/[0m    [0m [0m/genmodule.sh[1m [0m[0m [?2004l
+[Jdir: (lib)
+H5
+component: (Component.tsx)
+H5.tsx
+./scripts/genmodule.sh: line 33: ${(C)component:-Component.tsx}: bad substitution
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[?2004l
+dir: (lib)
+H6
+component: (Component.tsx)
+H6.tsx
+./scripts/genmodule.sh: line 33: ${component^:-Component.tsx}: bad substitution
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[?2004l
+dir: (lib)
+H6
+component: (Component.tsx)
+H6.tsx
+./scripts/genmodule.sh: line 33: ${(U)component:-Component.tsx}: bad substitution
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hbbashg[?2004l
+zsh: command not found: bashg
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hbbna b bash[?2004l
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ s=[K=""s"
+bash-3.2$ ($([Cs^)
+bash: s^: command not found
+bash-3.2$ $(s^)[K}[1Ps^}{s^}Ps^}[1Ps^}
+bash: ${s^}: bad substitution
+bash-3.2$ ${s^}[1P}*s}(s}[1Ps}[1Ps})s}U)s}
+bash: ${U)s}: bad substitution
+bash-3.2$ ${U)s}[1P)s}C)s}
+bash: ${C)s}: bad substitution
+bash-3.2$ ${C)s}[C[1P)s}=)s}[1P)s}U)s}Y)s}[1P)s}[C[C[}]}0]}
+bash: ${U)s[0]}: bad substitution
+bash-3.2$ ${U)s[0]}[1Ps[0]}[1Ps[0]}[1Ps[0]}{s[0]}
+bash: s: command not found
+bash-3.2$ ${s[0]}
+bash-3.2$ s
+bash: s: command not found
+bash-3.2$ ecgo[K[Kyh[K[Kho s[0]
+s[0]
+bash-3.2$ echo s[0]$s[0]
+s[0]
+bash-3.2$ echo $s[0]{s[0][C[C[C[C[K[K[K}
+s
+bash-3.2$ echo ${s}
+bash-3.2$ s[Ks=sdfsdf
+bash-3.2$ s=sdfsdfecho ${s}
+sdfsdf
+bash-3.2$ echo ${s}[}0}]}
+sdfsdf
+bash-3.2$ echo ${s[0]}i}i}i}
+bash-3.2$ tr 
+usage: tr [-Ccsu] string1 string2
+       tr [-Ccu] -d string1
+       tr [-Ccu] -s string1
+       tr [-Ccu] -ds string1 string2
+bash-3.2$ tr iu[K[Ks [1@'[C' [C [C[K[K[K[K[K'[s[Ka-z]' ''[']'A]'-]'z]'[C[C
+
+
+^C
+bash-3.2$ ls
+LICENSE								node_modules							tailwind.config.js
+README.md							package-lock.json						tsconfig.json
+coverage							package.json							typescript
+dist								postcss.config.js						vite.config.ts
+lib								scripts								vite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs
+bash-3.2$ ,.\[K[K[K./
+.git/         .github/      .husky/       .storybook/   coverage/     dist/         lib/          node_modules/ scripts/      
+bash-3.2$ ./scripts/b[K
+Module/       genmodule.sh  
+bash-3.2$ ./scripts/
+Module/       genmodule.sh  
+bash-3.2$ ./scripts/
+Module/       genmodule.sh  
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H5 6
+./scripts/genmodule.sh: line 33: ${(U)component:-Component.tsx}: bad substitution
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6.tsx
+./scripts/genmodule.sh: line 33: ${(U)component:-Component.tsx}: bad substitution
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6.tsx
+./scripts/genmodule.sh: line 33: ${(U)component:-Component.tsx}: bad substitution
+bash-3.2$ ./scripts/genmodule.sh 
+bash-3.2$ ge
+gem                  gencat               getconf              getopt               gettext              gettextize           
+gen_bridge_metadata  genstrings           getnf                getopts              gettext.sh           
+bash-3.2$ ge
+gem                  gencat               getconf              getopt               gettext              gettextize           
+gen_bridge_metadata  genstrings           getnf                getopts              gettext.sh           
+bash-3.2$ gen
+gen_bridge_metadata  gencat               genstrings           
+bash-3.2$ gen
+gen_bridge_metadata  gencat               genstrings           
+bash-3.2$ gen
+gen_bridge_metadata  gencat               genstrings           
+bash-3.2$ gen\\[K[K[K[K[Ko[K./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6.tsx
+i^C
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+H6. 
+component: (Component.tsx)
+H6
+
+./scripts/genmodule.sh: line 34: read: `-': not a valid identifier
+cp: ./Module/*: No such file or directory
+ls: H6: No such file or directory
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6
+cp: Module/**: No such file or directory
+../lib/H6/H6
+ls: H6: No such file or directory
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6
+cp: ./Module/**: No such file or directory
+H6/H6
+ls: H6: No such file or directory
+bash-3.2$ ./scripts/genmodule.sh [C[C[C[C[C[C[C[C[C[C[K./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6.tsx
+cp: Module/*: No such file or directory
+ls: H6: No such file or directory
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6
+./scripts/genmodule.sh: line 33: ${component.tsx:-Component.tsx}: bad substitution
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+
+component: (Component.tsx)
+
+./scripts/genmodule.sh: line 33: ${component.tsx:-Component.tsx}: bad substitution
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+
+component: (Component.tsx)
+
+cp: Module/*: No such file or directory
+ls: ./../lib: No such file or directory
+bash-3.2$ ./scripts/genmodule.sh 
+dir: (lib)
+
+component: (Component.tsx)
+
+cp: Module/*: No such file or directory
+./scripts/genmodule.sh: line 35: cd: ../lib/: No such file or directory
+LICENSE								node_modules							tailwind.config.js
+README.md							package-lock.json						tsconfig.json
+coverage							package.json							typescript
+dist								postcss.config.js						vite.config.ts
+lib								scripts								vite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs
+bash-3.2$ ls lib/
+A		Button		H1		H2		H3		config		global.css	index.ts	test
+bash-3.2$ ls lib/./scripts/genmodule.sh [C[C[C[C[C[C[C[C[C[Cls lib/[K[Kls lib/./scripts/genmodule.sh 
+dir: (lib)
+H6
+component: (Component.tsx)
+H6
+cp: Module/*: No such file or directory
+./scripts/genmodule.sh: line 35: cd: ../lib/: No such file or directory
+LICENSE								node_modules							tailwind.config.js
+README.md							package-lock.json						tsconfig.json
+coverage							package.json							typescript
+dist								postcss.config.js						vite.config.ts
+lib								scripts								vite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs
+bash-3.2$ s[Kzsh
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcclr[?2004l
+[3J[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcchmod +x ./
+[0mLICENSE                                                   [34mnode_modules[0m/                                             tailwind.config.js                                      
+README.md                                                 package-lock.json                                         tsconfig.json                                           
+[34mcoverage[0m/                                                 package.json                                              typescript                                              
+[34mdist[0m/                                                     postcss.config.js                                         vite.config.ts                                          
+[J[34mlib[0m/                                                      [J[34mscripts[0m/                                                  [Jvite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs[J[5A[0m[27m[24m[0m[49m[9Cchmod +x ./[K[168C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[0m[49m[183Dscripts[1m/[0m[0m/genmodule.sh[1m [0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h../scripts[1m/[0m[0m/genmodule.sh[1m [0m[0m [?2004l
+dir: (lib)
+H6
+component: (Component.tsx)
+H5 6
+cp: Module/*: No such file or directory
+./scripts/genmodule.sh: line 35: cd: ../lib/: No such file or directory
+LICENSE								node_modules							tailwind.config.js
+README.md							package-lock.json						tsconfig.json
+coverage							package.json							typescript
+dist								postcss.config.js						vite.config.ts
+lib								scripts								vite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h../
+[J[34mcoverage[0m/      [J[34mdist[0m/          [J[34mlib[0m/           [J[34mnode_modules[0m/  [J[34mscripts[0m/     [J[A[0m[27m[24m[0m[49m[9C./[K[177C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[0m[49m[192Dcoverage[1m/[0m[9Ddist[1m/[0m   [0m lib[1m/[0m[0m nod[0me_modules[1m/[0m[13Dscripts[1m/[0m    [0m [8Dcoverag[0me[1m/[0m[0m        sz   scripts[1m/[0m[0m [?2004l
+[Jzsh: permission denied: ./scripts
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts[9D         [9D./scripts? /
+[J[34mModule[0m/        [J[31mgenmodule.sh[0m*[J[A[0m[27m[24m[0m[49m[9C./scripts/[K[169C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[0m[49m[184DModule[1m/[0mgenmod[0mule.sh[?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hlls lib[1m/[0m[0m [?2004l
+A		Button		H1		H2		H3		config		global.css	index.ts	test
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h;;2Als lib./scripts/genmodule.sh[13D             [13D       .  cchmod +x ./
+[0mLICENSE                                                   [34mnode_modules[0m/                                             tailwind.config.js                                      
+README.md                                                 package-lock.json                                         tsconfig.json                                           
+[34mcoverage[0m/                                                 package.json                                              typescript                                              
+[34mdist[0m/                                                     postcss.config.js                                         vite.config.ts                                          
+[J[34mlib[0m/                                                      [J[34mscripts[0m/                                                  [Jvite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs[J[5A[0m[27m[24m[0m[49m[9Cchmod +x ./[K[168C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[0m[49m[183Dscripts[1m/[0m[0m/genmodule.sh[1m [0m[0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hchmod +x ./scripts/genmodule.sh[31Dls lib                         [25D[?2004l
+A		Button		H1		H2		H3		config		global.css	index.ts	test
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hls libchmod +x ./scripts/genmodule.sh[31Dls lib                         [25D./scripts/genmodule.sh[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcclr[?2004l
+[3J[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hclr./scripts/genmodule.sh[?2004l
+cp: ./Module/**: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[?2004l
+cp: Module/**: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh\[?2004l
+[0m[27m[24m[J> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[?2004l
+cp: Module/*: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[?2004l
+cp: Module: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[?2004l
+cp: Module: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[22Dclr                   [19D./scripts/genmodule.sh[22Dls lib                [16Dchmod +x ./scripts/genmodule.sh[31Dls lib                         [25Dchmod +x ./scripts/genmodule.sh[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hchmod +x ./scripts/genmodule.sh[31D./scripts/genmodule.sh         [9D[?2004l
+cp: directory ./../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh[?2004l
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5[?2004l
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5[?2004l
+
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5[?2004l
+./scripts/genmodule.sh
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5[?2004l
+
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5[?2004l
+
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5[?2004l
+cp: ./Module/.: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5  --  H5[?2004l
+cp: ./Module/.: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh -H5[?2004l
+cp: Module/.: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh -H5[?2004l
+cp: Module: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh -H5[?2004l
+/Users/system/workspace/wsfe/sleeve
+cp: Module: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh -H5[?2004l
+mkdir: ../lib: No such file or directory
+cp: ./Module/**: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hi ccp c  ccd scripts[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hccp 
+[J[34mModule[0m/        [J[31mgenmodule.sh[0m*[J[A[0m[27m[24m[0m[49m[9Ccp[K[176C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[191DModule[1m/[0m[0m ..
+[J[A[21Cl;  /
+[J[0mLICENSE                                                   [34mnode_modules[0m/                                             tailwind.config.js                                      
+README.md                                                 package-lock.json                                         tsconfig.json                                           
+[34mcoverage[0m/                                                 package.json                                              typescript                                              
+[34mdist[0m/                                                     postcss.config.js                                         vite.config.ts                                          
+[J[34mlib[0m/                                                      [J[34mscripts[0m/                                                  [Jvite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs[J[5A[0m[27m[24m[0m[49m[9Ccp Module ../[K[165C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[181Dlib[1m/[0m[0m/
+[J[J[34mA[0m/          [J[34mButton[0m/     [J[34mH1[0m/         [J[34mH2[0m/         [J[34mH3[0m/         [J[34mconfig[0m/     [Jglobal.css  [Jindex.ts    [J[34mtest[0m/     [J[A[0m[27m[24m[0m[49m[9Ccp Module ../lib/[K[161C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[177D[?2004l
+[Jcp: Module is a directory (not copied).
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcp Module ../lib/-Module ../lib/[14DrModule ../lib/[14D Module ../lib/[14D[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hlls ;l  l ../
+[0mLICENSE                                                   [34mnode_modules[0m/                                             tailwind.config.js                                      
+README.md                                                 package-lock.json                                         tsconfig.json                                           
+[34mcoverage[0m/                                                 package.json                                              typescript                                              
+[34mdist[0m/                                                     postcss.config.js                                         vite.config.ts                                          
+[J[34mlib[0m/                                                      [J[34mscripts[0m/                                                  [Jvite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs[J[5A[0m[27m[24m[0m[49m[9Cls ../[K[172C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[188Dlib[1m/[0m[0m [?2004l
+[JA		Button		H1		H2		H3		Module		config		global.css	index.ts	test
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hrrm = -rf ../r lib[1m/[0m[0m/Module[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hrm -rf ../lib/Module[20Dls ../lib           [11D[9Dcp -r Module ../lib/ && ../m../v../ ../[1C[1C[1Clib[1m/[0m[0m/Modi uil  le ,,/   ../lib/. H6[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hlls ../lib[1m/[0m[0m/
+[J[34mA[0m/          [J[34mButton[0m/     [J[34mH1[0m/         [J[34mH2[0m/         [J[34mH3[0m/         [J[34mH6[0m/         [J[34mconfig[0m/     [Jglobal.css  [Jindex.ts    [J[34mtest[0m/     [J[A[0m[27m[24m[0m[49m[9Cls ../lib/[K[168C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[184D[?2004l
+[JA		Button		H1		H2		H3		H6		config		global.css	index.ts	test
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hlls ../lib[1m/[0m[0m/H
+[J[34mH1[0m/  [J[34mH2[0m/  [J[34mH3[0m/  [J[34mH6[0m/[J[A[0m[27m[24m[0m[49m[9Cls ../lib/H[K[167C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[183D1[1m/[0m2[1C3[1C6[1C1[1C[0m  6[?2004l
+[JComponent.stories.tsx	Component.test.tsx	Component.tsx		index.ts
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcclr[?2004l
+[3J[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hclrls ../lib/H6  [10Dcp -r Module ../lib/ && mv ../lib/Module ../lib/H6[50Drm[3Cf ../lib/Module                              [30D[20Dcp[3C Module ../lib/ && mv ../lib/Module ../lib/H6/H6.*[?2004l
+zsh: no matches found: ../lib/H6/H6.*
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcp -r Module ../lib/ && mv ../lib/Module ../lib/H6/H6.*[1C[1C    [?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcclri  c  cclr[?2004l
+[3J[H[2J[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h../s 
+[J[34mModule[0m/        [J[31mgenmodule.sh[0m*[J[A[0m[27m[24m[0m[49m[9C./[K[176C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[192DModule[1m/[0mgenmod[0mule.sh[?2004l
+[Jmv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh H5[?2004l
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hi ./genmodule.sh H5   H5[?2004l
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hiiii  ../
+[J[34mModule[0m/        [J[31mgenmodule.sh[0m*[J[A[0m[27m[24m[0m[49m[9C./[K[176C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[0m[49m[192DModule[1m/[0mgenmod[0mule.sh[?2004l
+[Jmv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh H ""H5  ""H"5"[1C[?2004l
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh "H5"[?2004l
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh "H5"[?2004l
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh "H5"[?2004l
+
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh "H5"[?2004l
+
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh "H5"[?2004l
+
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh "H5"     ==   ==  -- " H5[?2004l
+
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh -- H5[?2004l
+
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./genmodule.sh -- H5[?2004l
+
+mv: ../lib/Module and ../lib/Module are identical
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[178C[1m[38;5;118m[39mscripts[1m [38;5;63m03/23/24[39m[0m[194D[?2004hccd ,,  ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hcd .../genmodule.sh -- H5[15D[./genmodule.sh -- H5[20D[C./genmodule.sh -- H5[20D[1C/genmodule.sh -- H5 [20D[/genmodule.sh -- H5 [20D/genmodule.sh -- H5 [20D./genmodule.sh -- H5[19D[1C/genmodule.sh -- H5[19Ds/genmodule.sh -- H5[19Dcripts/genmodule.sh[1m [0m -- H5[0m -- H5 [1C[1C[1CH5 H5 H5 [1C[1C[?2004l
+
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh H5=H5H5 -H5-H5 H5[?2004l
+
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh -- H5[?2004l
+
+cp: directory ../lib does not exist
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh -- H5     [?2004l
+./scripts/genmodule.sh: line 29: gen_mod: command not found
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004h./scripts/genmodule.sh [23D                      [22D./scripts/genmodule.sh [?2004l
+/Users/system/workspace/wsfe/sleeve
+cp: ./Module: No such file or directory
+total 1376
+drwxr-xr-x@  24 system  staff   768B Mar 23 00:55 [34m.[39;49m[0m
+	com.apple.provenance	  11B 
+drwxr-xr-x    5 system  staff   160B Mar 18 23:51 [34m..[39;49m[0m
+-rw-r--r--@   1 system  staff   768B Feb 24 02:33 .eslintrc.json
+	com.apple.provenance	  11B 
+drwxr-xr-x@  13 system  staff   416B Mar 18 19:13 [34m.git[39;49m[0m
+	com.apple.provenance	  11B 
+drwxr-xr-x@   3 system  staff    96B Feb 24 02:33 [34m.github[39;49m[0m
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff    44B Mar 18 19:00 .gitignore
+	com.apple.provenance	  11B 
+drwxr-xr-x@   4 system  staff   128B Feb 24 02:34 [34m.husky[39;49m[0m
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff   109B Feb 24 02:33 .prettierrc.json
+	com.apple.provenance	  11B 
+drwxr-xr-x@   4 system  staff   128B Feb 24 02:33 [34m.storybook[39;49m[0m
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff   1.0K Feb 24 02:33 LICENSE
+	com.apple.metadata:kMDItemKeyphraseConfidences	  75B 
+	com.apple.metadata:kMDItemKeyphraseLabels	 104B 
+	com.apple.metadata:kMDItemKeyphraseVersion	  43B 
+	com.apple.metadata:kMDItemTextContentLanguage	  44B 
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff   1.9K Mar 18 19:12 README.md
+	com.apple.provenance	  11B 
+drwxr-xr-x   17 system  staff   544B Mar 18 19:13 [34mcoverage[39;49m[0m
+drwxr-xr-x    6 system  staff   192B Mar 18 13:10 [34mdist[39;49m[0m
+drwxr-xr-x@  13 system  staff   416B Mar 23 02:39 [34mlib[39;49m[0m
+	com.apple.provenance	  11B 
+drwxr-xr-x@ 704 system  staff    22K Mar 18 12:48 [34mnode_modules[39;49m[0m
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff   590K Mar 18 16:56 package-lock.json
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff   2.7K Mar 18 16:56 package.json
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff    81B Feb 24 02:33 postcss.config.js
+	com.apple.provenance	  11B 
+drwxr-xr-x    4 system  staff   128B Mar 23 01:09 [34mscripts[39;49m[0m
+-rw-r--r--@   1 system  staff   142B Feb 24 02:33 tailwind.config.js
+	com.apple.provenance	  11B 
+-rw-r--r--@   1 system  staff   2.5K Feb 24 02:33 tsconfig.json
+	com.apple.provenance	  11B 
+-rw-r--r--    1 system  staff    45K Mar 23 02:39 typescript
+-rw-r--r--@   1 system  staff   870B Feb 24 02:33 vite.config.ts
+	com.apple.provenance	  11B 
+-rw-r--r--    1 system  staff   7.9K Mar 18 19:05 vite.config.ts.timestamp-1710792449073-9cc2e902d5e1f.mjs
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hlls lib[1m/[0m[0m [?2004l
+A		Button		H1		H2		H3		H5		Module		config		global.css	index.ts	test
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hlls lib[1m/[0m[0m/H
+[J[34mH1[0m/  [J[34mH2[0m/  [J[34mH3[0m/  [J[34mH5[0m/[J[A[0m[27m[24m[0m[49m[9Cls lib/H[K[171C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[0m[49m[186D1[1m/[0m2[1C3[1C5[1C[0m [?2004l
+[JComponent.test.tsx	Component.tsx		H5.stories.tsx		index.ts
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            [0m[27m[24m[J[1m[48;5;63m system [49m[0m [K[179C[1m[38;5;118m[39msleeve[1m [38;5;63m03/23/24[39m[0m[194D[?2004hls lib/H5   ./scripts/genmodule.sh 

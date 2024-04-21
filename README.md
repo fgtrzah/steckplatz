@@ -5,9 +5,10 @@ a lib instead of re-implementing every time I work on front end. Ideal for rapid
 not intended for production apps. Original: tachyons.css inspired.
 
 #### Idea / proactive changelog-ish
+
 - find out why it warns about punycode deprecation despite
-using requre("punycode/") instead of require("punycode") as
-per top-voted gh issues threads
+  using requre("punycode/") instead of require("punycode") as
+  per top-voted gh issues threads
 - JetBrains Mono the system
 
 #### TEMPLATE
